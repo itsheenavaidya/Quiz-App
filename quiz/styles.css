@@ -1,0 +1,45 @@
+body{background-color: rgb(16, 89, 138);
+    
+    font-size: 20px;
+    font-family: sans-serif;
+  
+}
+h1{margin:50px;
+    color:white;
+}
+.form{
+    margin-left: 400px;
+     background-color: white;
+     width: 500px;
+     padding: 60px;
+     border-radius:2%
+    }
+
+.question{ margin-top: 35px;
+    font-weight: 650;
+}
+.answers { display: flex;
+    flex-direction: column;
+    margin: 20px;
+   
+   
+}
+#submit{
+    font-family: sans-serif;
+    font-size: 20px;
+    background-color: rgb(16, 89, 138);
+    color: #fff;
+    border: 0px;
+    border-radius: 5px;
+    padding: 20px;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+#submit:hover{
+    background-color: #00b7c2;
+}
+
+
+
